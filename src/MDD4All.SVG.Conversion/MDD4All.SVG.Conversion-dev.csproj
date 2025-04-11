@@ -11,7 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MDD4All.SVG.DataModels\src\MDD4All.SVG.DataModels\MDD4All.SVG.DataModels-dev.csproj" />
+    <ProjectReference Include="..\..\..\MDD4All.SVG.DataModels\src\MDD4All.SVG.DataModels\MDD4All.SVG.DataModels-dev.csproj" />
+    <ProjectReference Include="..\..\..\MDD4All.Text.DataModels\src\MDD4All.Text.DataModels\MDD4All.Text.DataModels-dev.csproj" />
   </ItemGroup>
 
 </Project>
